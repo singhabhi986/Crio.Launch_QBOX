@@ -6,7 +6,8 @@
     # 2) If there are multiple commands, either put a semicolon between the commands or write each command on a separate line
     # 3) Execute the script before submission and confirm the output
 
-cd
+cd ~/workspace
+cd ..
 cd ..
 pwd
 
