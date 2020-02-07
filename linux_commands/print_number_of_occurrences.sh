@@ -9,4 +9,5 @@
     # 3) Execute the script before submission and confirm the output
 
 
-
+cd ~/workspace/QBox/logs
+grep -o '230 Login successful' vsftpd1.log | wc -l
