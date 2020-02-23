@@ -1,0 +1,3 @@
+the 6th version gives uploads the file with only the write permission, while others upload with read and write permissions.
+had set the local_umask to 002
+and file_open_mode to 0777 in vsftpd.conf
