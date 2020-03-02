@@ -1,0 +1,2 @@
+9025, 7569, 7044, ,969
+TCP Zero Window is when the Window size in a machine remains at zero for a specified amount of time. This means that a client is not able to receive further information at the moment, and the TCP transmission is halted until it can process the information in its receive buffer.

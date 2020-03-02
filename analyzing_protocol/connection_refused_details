@@ -1,0 +1,2 @@
+it took too much time to respond (high timestamp value), may be the client shutdown the connection or it was automatically shutdown.
+A 'router' could be doing anything - particularly NAT, which might involve any amount of bug-ridden messing with traffic.One reason a device will send a RST is in response to receiving a packet for a closed socket.

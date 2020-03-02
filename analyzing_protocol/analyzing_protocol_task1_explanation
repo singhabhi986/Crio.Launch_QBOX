@@ -1,0 +1,1 @@
+the ip we ping is the External ip, while the ip captured in pcap is the internal ip of the system also ifconfig stands for "interface configuration." It is used to view and change the configuration of the network interfaces on your system while ping is simply in network layer.

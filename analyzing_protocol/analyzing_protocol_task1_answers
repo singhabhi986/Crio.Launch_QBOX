@@ -1,0 +1,4 @@
+NETWORK LAYER
+yes,PING is not a protocol, but it is an application layer utility.
+Yes
+time,destination,size of data,icmp_seq

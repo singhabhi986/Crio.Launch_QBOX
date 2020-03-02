@@ -1,0 +1,2 @@
+8759, 8769, 8749
+When the receiving socket detects an incoming segment of data, it uses the acknowledgement number in the TCP header to indicate receipt. After sending a packet of data, the sender will start a retransmission timer of variable length. If it does not receive an acknowledgment before the timer expires, the sender will assume the segment has been lost and will retransmit it.If retransmissions are detected in a TCP connection, it is logical to assume that packet loss has occurred on the network somewhere between client and server.
